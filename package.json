@@ -1,0 +1,11 @@
+{
+  "name": "tidepoolTimeParser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ianjorgensen/TidepoolTimeParser",
+  "author": "Ian Jorgensen",
+  "license": "Tidepool",
+  "dependencies": {
+    "moment": "~2.1.0"
+  }
+}
